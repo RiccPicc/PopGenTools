@@ -1,3 +1,6 @@
+"""
+Functions to compute the Polymorphic Information Content (PIC) of SSR data
+"""
 import pandas as pd
 
 def compute_frequencies(df, diploid=True):
